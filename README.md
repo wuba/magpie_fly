@@ -4,6 +4,20 @@
 
 Magpie-fly 是58集体出品组件库，封装了多种常用组件，以满足开发者需求。(Magpie-fly is a component library produced by 58 Group, which encapsulates a variety of common components to meet the needs of developers)
 
+Mapie包含了一系列的开源项目，访问对应仓库了解更多。
+
+> Magpie Workflow
+
+一个Flutter开发的工具流，实现独立Flutter模块的创建，开发，编译，打包，上传流程。[https://github.com/wuba/magpie_workflow](https://github.com/wuba/magpie_workflow)
+
+> Magpie Native&Dart SDK
+
+与Workflow配套，用于接入App，Flutter的SDK。[https://github.com/wuba/magpie](https://github.com/wuba/magpie)
+
+> Magpie Log
+
+适用于Flutter平台下的圈选埋点库。[https://github.com/wuba/magpie_log](https://github.com/wuba/magpie_log)
+
 ## Pub使用
 
 1. Depend on it
