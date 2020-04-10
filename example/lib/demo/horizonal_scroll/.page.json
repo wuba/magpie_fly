@@ -1,0 +1,7 @@
+  {
+    "name": "horizonal_scroll",
+    "title": "尾部弹性ScrollView",
+    "desc": "一个支持滑动回弹加载更多的组件",
+    "markdown": "lib/demo/horizonal_scroll/horizonal_scroll.md"
+  }
+  

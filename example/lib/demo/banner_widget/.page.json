@@ -1,0 +1,7 @@
+  {
+    "name": "banner_widget",
+    "title": "轮播组件",
+    "desc": "一个定时自定义的轮播组件",
+    "markdown": "lib/demo/banner_widget/banner_widget.md"
+  }
+  

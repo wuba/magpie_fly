@@ -1,0 +1,7 @@
+  {
+    "name": "test_widget",
+    "title": "测试组件",
+    "desc": "这是一个测试组件",
+    "markdown": "lib/demo/test_widget/test_widget.md"
+  }
+  

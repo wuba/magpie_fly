@@ -1,0 +1,6 @@
+  {
+    "name": "draggable_btn",
+    "title": "全屏拖动按钮",
+    "desc": "可用于右下角的广告位",
+    "markdown": "lib/demo/draggable_btn/dragable_btn.md"
+  }
